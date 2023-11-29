@@ -1,17 +1,19 @@
-body{
+@import url("https://fonts.googleapis.com/css2?family=Arapey:ital@1&family=Open+Sans:wght@300&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap");
+body {
   width: 100vw;
-
+  font-family: 'Arapey', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
 
   background-color: rgb(2, 36, 2);
   color: #fff;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-h4{
+h4 {
   margin-top: 10px;
-
 }
